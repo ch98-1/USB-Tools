@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector_Specialized:USB3_A J1
+L Connector:USB3_A J1
 U 1 1 5B1E0CAE
 P 4200 2900
 F 0 "J1" H 4255 3617 50  0000 C CNN
@@ -26,7 +26,7 @@ F 3 "~" H 4350 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Specialized:USB3_A J2
+L Connector:USB3_A J2
 U 1 1 5B1E0DCF
 P 7200 2900
 F 0 "J2" H 7256 3617 50  0000 C CNN

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name USB3_A_Connector)(type KiCad)(uri ${KIPRJMOD}/USB3_A_Connector.pretty)(options "")(descr ""))
+  (lib (name SRU1048)(type KiCad)(uri ${KIPRJMOD}/SRU1048.pretty)(options "")(descr ""))
+)
