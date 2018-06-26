@@ -1,11 +1,11 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.0-dev-4115-gdd04bcb)*
-G04 #@! TF.CreationDate,2018-06-11T00:35:00-07:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.0.0-rc2-110-g9edfd25)*
+G04 #@! TF.CreationDate,2018-06-15T17:50:17-07:00*
 G04 #@! TF.ProjectId,USB-Voltage-Probe,5553422D566F6C746167652D50726F62,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.0-dev-4115-gdd04bcb)) date Monday, June 11, 2018 at 12:35:00 AM*
+G04 Created by KiCad (PCBNEW (5.0.0-rc2-110-g9edfd25)) date Friday, June 15, 2018 at 05:50:17 PM*
 %MOMM*%
 %LPD*%
 G01*
